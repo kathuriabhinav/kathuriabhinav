@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kathuriabhinav
-- 👀 I’m interested in android development , solving competive coding problems in c++
+- 👀 I’m interested in solving competive coding problems in C++, full stack android app developments  
 - 👀 I'm good at C++, Java, Swing, layout building in xml, SQL, etc...
 - 📫 You can reach me by mailing me at - kathuriabhinav@gmail.com
 
