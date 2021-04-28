@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kathuriabhinav
 - 👀 I’m interested in solving competitive coding problems in C++, full stack android app developments  
-- 👀 I'm good at C++, Java, Swing, layout building in xml, SQL, etc...
+- 👀 I'm good at C++, Java, Swing, front end in xml, backend in Java, SQL, etc...
 - 📫 You can reach me by mailing me at - kathuriabhinav@gmail.com
 
 <!---
