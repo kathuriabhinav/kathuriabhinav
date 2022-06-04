@@ -2,7 +2,7 @@
 
 I am [Kathuri Abhinav](https://github.com/kathuriabhinav) , a **Final Year** student at [IIITA](https://iiita.ac.in/). I have a keen interest in Full Stack Android Development. I love to solve Programming Challenges and exploring new domains of Computer Science. Connect with me on [Linkedin](https://www.linkedin.com/in/kathuriabhinav/) or [Twitter](https://twitter.com/kathuriabhinav). Some other more interesting facts about me below ...
 
-[![kathuriabhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathuriabhinav&show_icons=true)]([https://github.com/kathuriabhinav](https://github-readme-stats.vercel.app/api?username=kathuriabhinav&show_icons=true))
+[![kathuriabhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathuriabhinav&show_icons=true)](https://github-readme-stats.vercel.app/api?username=kathuriabhinav&show_icons=true))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathuriabhinav&langs_count=8&layout=compact)](https://github.com/kathuriabhinav)
 
