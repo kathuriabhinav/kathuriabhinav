@@ -1,8 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">
+Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">
 
-I am [Kathuri Abhinav](http://kathuriabhinav.github.io/) , a **Software Engineer**. I have a keen interest in Full Stack Android Development. I love to solve Programming Challenges and exploring new domains of Computer Science. Connect with me on [Linkedin](https://www.linkedin.com/in/kathuriabhinav/) or [Twitter](https://twitter.com/kathuriabhinav). Some other more interesting facts about me below ...
+I am Kathuri Abhinav , Passionate about leveraging technology to solve complex problems and drive innovation. Graduated with a Bachelor's degree in Information Technology from IIIT Allahabad in 2023. Currently, contributing as a Software Engineer. With a curious mind and a relentless drive for self-improvement, I am always eager to dive into new technologies and expand my skillset. Let's connect and explore opportunities to learn and grow together!
 
-[![kathuriabhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathuriabhinav)](https://github-readme-stats.vercel.app/api?username=kathuriabhinav))
+[![kathuriabhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathuriabhinav)](https://github-readme-stats.vercel.app/api?username=kathuriabhinav)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathuriabhinav&langs_count=8&layout=compact)](https://github.com/kathuriabhinav)
 
